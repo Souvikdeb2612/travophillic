@@ -33,8 +33,8 @@ const config: Config = {
   				foreground: 'hsl(var(--muted-foreground))'
   			},
   			accent: {
-  				DEFAULT: 'hsl(var(--accent))',
-  				foreground: 'hsl(var(--accent-foreground))'
+  				DEFAULT: '#0284c7',
+  				foreground: '#0c4a6e'
   			},
   			destructive: {
   				DEFAULT: 'hsl(var(--destructive))',
